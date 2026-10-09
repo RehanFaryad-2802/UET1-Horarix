@@ -1,228 +1,49 @@
 {
-  "version": "2026-09-21",
+  "updated": "2026-09-28",
+  "teacherGender": {"Ms. Maryam": "F", "Ms. Sherish": "F", "Ms. Shami Khalid": "F", "Ms. Namra": "F", "Mr. Habib ur Rehman": "M", "Dr. Babar Farooq": "M"},
   "schedule": {
-    "0": [],
     "1": [
-      {
-        "start": "08:00",
-        "end": "09:00",
-        "subject": "Applications of ICT Lab",
-        "room": "Lab1",
-        "teacher": "Ms. Maryam"
-      },
-      {
-        "start": "09:00",
-        "end": "10:00",
-        "subject": "Applications of ICT Lab",
-        "room": "Lab1",
-        "teacher": "Ms. Maryam"
-      },
-      {
-        "start": "10:00",
-        "end": "11:00",
-        "subject": "Applications of ICT Lab",
-        "room": "Lab1",
-        "teacher": "Ms. Maryam"
-      },
-      {
-        "start": "11:00",
-        "end": "12:00",
-        "subject": null
-      },
-      {
-        "start": "12:00",
-        "end": "13:00",
-        "subject": "Break",
-        "isBreak": true
-      },
-      {
-        "start": "13:00",
-        "end": "14:00",
-        "subject": "Programming Fundamentals",
-        "room": "AI-01",
-        "teacher": "Ms. Sherish"
-      },
-      {
-        "start": "14:00",
-        "end": "15:00",
-        "subject": "Programming Fundamentals",
-        "room": "AI-01",
-        "teacher": "Ms. Sherish"
-      },
-      {
-        "start": "15:00",
-        "end": "16:00",
-        "subject": null
-      }
+      {"start": "08:00", "end": "09:00", "subject": "Applications of ICT Lab", "room": "Lab1", "teacher": "Ms. Maryam"},
+      {"start": "09:00", "end": "10:00", "subject": "Applications of ICT Lab", "room": "Lab1", "teacher": "Ms. Maryam"},
+      {"start": "10:00", "end": "11:00", "subject": "Applications of ICT Lab", "room": "Lab1", "teacher": "Ms. Maryam"},
+      {"start": "11:00", "end": "12:00", "subject": null},
+      {"start": "12:00", "end": "13:00", "subject": "Break", "isBreak": true},
+      {"start": "13:00", "end": "14:00", "subject": "Programming Fundamentals", "room": "AI-01", "teacher": "Ms. Sherish"},
+      {"start": "14:00", "end": "15:00", "subject": "Programming Fundamentals", "room": "AI-01", "teacher": "Ms. Sherish"},
+      {"start": "15:00", "end": "16:00", "subject": null}
     ],
     "2": [
-      {
-        "start": "08:00",
-        "end": "09:00",
-        "subject": "Functional English",
-        "room": "AI-04",
-        "teacher": "Mr. Habib ur Rehman"
-      },
-      {
-        "start": "09:00",
-        "end": "10:00",
-        "subject": "Programming Fundamentals",
-        "room": "Lab2",
-        "teacher": "Ms. Sherish"
-      },
-      {
-        "start": "10:00",
-        "end": "11:00",
-        "subject": "Programming Fundamentals",
-        "room": "Lab2",
-        "teacher": "Ms. Sherish"
-      },
-      {
-        "start": "11:00",
-        "end": "12:00",
-        "subject": "Programming Fundamentals Lab",
-        "room": "Lab2",
-        "teacher": "Ms. Sherish"
-      },
-      {
-        "start": "12:00",
-        "end": "13:00",
-        "subject": "Break",
-        "isBreak": true
-      },
-      {
-        "start": "13:00",
-        "end": "14:00",
-        "subject": "Basic Maths-I",
-        "room": "AI-02",
-        "teacher": "Ms. Shami Khalid"
-      },
-      {
-        "start": "14:00",
-        "end": "15:00",
-        "subject": "Basic Maths-I",
-        "room": "AI-02",
-        "teacher": "Ms. Shami Khalid"
-      },
-      {
-        "start": "15:00",
-        "end": "16:00",
-        "subject": "Basic Maths-I",
-        "room": "AI-02",
-        "teacher": "Ms. Shami Khalid"
-      }
+      {"start": "08:00", "end": "09:00", "subject": "Functional English", "room": "AI-04", "teacher": "Mr. Habib ur Rehman"},
+      {"start": "09:00", "end": "10:00", "subject": "Programming Fundamentals Lab", "room": "Lab2", "teacher": "Ms. Sherish"},
+      {"start": "10:00", "end": "11:00", "subject": "Programming Fundamentals Lab", "room": "Lab2", "teacher": "Ms. Sherish"},
+      {"start": "11:00", "end": "12:00", "subject": "Programming Fundamentals Lab", "room": "Lab2", "teacher": "Ms. Sherish"},
+      {"start": "12:00", "end": "13:00", "subject": "Break", "isBreak": true},
+      {"start": "13:00", "end": "14:00", "subject": "Basic Maths-I", "room": "AI-02", "teacher": "Ms. Shami Khalid"},
+      {"start": "14:00", "end": "15:00", "subject": "Basic Maths-I", "room": "AI-02", "teacher": "Ms. Shami Khalid"},
+      {"start": "15:00", "end": "16:00", "subject": "Basic Maths-I", "room": "AI-02", "teacher": "Ms. Shami Khalid"}
     ],
     "3": [
-      {
-        "start": "08:00",
-        "end": "09:00",
-        "subject": "Functional English",
-        "room": "AI-02",
-        "teacher": "Mr. Habib ur Rehman"
-      },
-      {
-        "start": "09:00",
-        "end": "10:00",
-        "subject": "Functional English",
-        "room": "AI-02",
-        "teacher": "Mr. Habib ur Rehman"
-      },
-      {
-        "start": "10:00",
-        "end": "11:00",
-        "subject": "Calculus-I",
-        "room": "AI-02",
-        "teacher": "Ms. Shami Khalid"
-      },
-      {
-        "start": "11:00",
-        "end": "12:00",
-        "subject": "Discrete Mathematics",
-        "room": "AI-02",
-        "teacher": "Ms. Namra"
-      },
-      {
-        "start": "12:00",
-        "end": "13:00",
-        "subject": "Break",
-        "isBreak": true
-      },
-      {
-        "start": "13:00",
-        "end": "14:00",
-        "subject": "Calculus-I",
-        "room": "AI-02",
-        "teacher": "Ms. Shami Khalid"
-      },
-      {
-        "start": "14:00",
-        "end": "15:00",
-        "subject": "Calculus-I",
-        "room": "AI-02",
-        "teacher": "Ms. Shami Khalid"
-      },
-      {
-        "start": "15:00",
-        "end": "16:00",
-        "subject": null
-      }
+      {"start": "08:00", "end": "09:00", "subject": "Functional English", "room": "AI-02", "teacher": "Mr. Habib ur Rehman"},
+      {"start": "09:00", "end": "10:00", "subject": "Functional English", "room": "AI-02", "teacher": "Mr. Habib ur Rehman"},
+      {"start": "10:00", "end": "11:00", "subject": "Calculus-I", "room": "AI-02", "teacher": "Ms. Shami Khalid"},
+      {"start": "11:00", "end": "12:00", "subject": "Discrete Mathematics", "room": "AI-04", "teacher": "Ms. Namra"},
+      {"start": "12:00", "end": "13:00", "subject": "Break", "isBreak": true},
+      {"start": "13:00", "end": "14:00", "subject": "Calculus-I", "room": "AI-02", "teacher": "Ms. Shami Khalid"},
+      {"start": "14:00", "end": "15:00", "subject": "Calculus-I", "room": "AI-02", "teacher": "Ms. Shami Khalid"},
+      {"start": "15:00", "end": "16:00", "subject": null}
     ],
     "4": [
-      {
-        "start": "08:00",
-        "end": "09:00",
-        "subject": "Discrete Mathematics",
-        "room": "AI-02",
-        "teacher": "Ms. Namra"
-      },
-      {
-        "start": "09:00",
-        "end": "10:00",
-        "subject": "Applications of ICT",
-        "room": "AI-03",
-        "teacher": "Ms. Sherish"
-      },
-      {
-        "start": "10:00",
-        "end": "11:00",
-        "subject": "Applications of ICT",
-        "room": "AI-03",
-        "teacher": "Ms. Sherish"
-      },
-      {
-        "start": "11:00",
-        "end": "12:00",
-        "subject": "Programming Fundamentals",
-        "room": "AI-03",
-        "teacher": "Ms. Sherish"
-      },
-      {
-        "start": "12:00",
-        "end": "13:00",
-        "subject": "Break",
-        "isBreak": true
-      },
-      {
-        "start": "13:00",
-        "end": "14:00",
-        "subject": "Islamic Studies",
-        "room": "Biomedical Dept. Laplace Room",
-        "teacher": "Dr. Babar Farooq"
-      },
-      {
-        "start": "14:00",
-        "end": "15:00",
-        "subject": "Islamic Studies",
-        "room": "Biomedical Dept. Laplace Room",
-        "teacher": "Dr. Babar Farooq"
-      },
-      {
-        "start": "15:00",
-        "end": "16:00",
-        "subject": null
-      }
+      {"start": "08:00", "end": "09:00", "subject": "Discrete Mathematics", "room": "AI-01", "teacher": "Ms. Namra"},
+      {"start": "09:00", "end": "10:00", "subject": "Applications of ICT", "room": "AI-01", "teacher": "Ms. Sherish"},
+      {"start": "10:00", "end": "11:00", "subject": "Applications of ICT", "room": "AI-01", "teacher": "Ms. Sherish"},
+      {"start": "11:00", "end": "12:00", "subject": "Programming Fundamentals", "room": "AI-01", "teacher": "Ms. Sherish"},
+      {"start": "12:00", "end": "13:00", "subject": "Break", "isBreak": true},
+      {"start": "13:00", "end": "14:00", "subject": "Islamic Studies", "room": "Biomedical Dept. Laplace Room", "teacher": "Dr. Babar Farooq"},
+      {"start": "14:00", "end": "15:00", "subject": "Islamic Studies", "room": "Biomedical Dept. Laplace Room", "teacher": "Dr. Babar Farooq"},
+      {"start": "15:00", "end": "16:00", "subject": null}
     ],
     "5": [],
-    "6": []
+    "6": [],
+    "0": []
   }
 }
